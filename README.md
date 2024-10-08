@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on MAchine learning projects 
-- 📫 How to reach me barneskaysen@yahoo.com or via LInkedin 
+- 📫 How to reach me via LInkedin 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Base in London
 
