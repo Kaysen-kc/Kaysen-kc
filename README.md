@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Kaysen-kc
+- 😄 Incoming Phd Mathematics @ UCL
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Machine learning projects 
