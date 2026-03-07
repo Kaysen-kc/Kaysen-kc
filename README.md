@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaysen-kc
-- 😄 Incoming Phd Mathematics @ UCL
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning C++
+- 😄 Self-taught software engineer 
+- 👀 I’m interested in High Frequency 
+- 🌱 I’m currently working on C++ projects
 - 💞️ I’m looking to collaborate on Machine learning projects 
 - 📫 How to reach me via LInkedin 
 - 😄 Pronouns: He/him
