@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaysen-kc
 - 😄 Self-taught software engineer 
-- 👀 I’m interested in High Frequency 
+- 👀 I’m interested in High Frequency Trading
 - 🌱 I’m currently working on C++ projects
 - 💞️ I’m looking to collaborate on Machine learning projects 
 - 📫 How to reach me via LInkedin 
